@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "343358436510",
+    "project_id": "click-308911",
+    "storage_bucket": "click-308911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343358436510:android:ee07da72016c028ef3378f",
+        "android_client_info": {
+          "package_name": "com.click.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343358436510-63068om52o824f4ujeh2vsuappvs8rde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.click.user",
+            "certificate_hash": "597b143211d8612448bd581f072f70ce1cc460f6"
+          }
+        },
+        {
+          "client_id": "343358436510-9sadrbekcpprpqfnegp844qmltdldgd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.click.user",
+            "certificate_hash": "29031b029a2ada0267a25ef41f4028e61c492a9f"
+          }
+        },
+        {
+          "client_id": "343358436510-ba18irl05qr4g3eu1mlv9f8qgshmaibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZQ98ULCMTZ3iRHlCHiYGtKPbX3uEIIVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343358436510-ba18irl05qr4g3eu1mlv9f8qgshmaibr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343358436510-bhbp11o29rrgmn4cnnrmfph3r8cs9vbt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gomarketdemo.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343358436510:android:2e4ad9be0121f5c4f3378f",
+        "android_client_info": {
+          "package_name": "com.click.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343358436510-8h6kjt4hv8f04hhqpo2a83m2je29ca08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.click.vendor",
+            "certificate_hash": "29031b029a2ada0267a25ef41f4028e61c492a9f"
+          }
+        },
+        {
+          "client_id": "343358436510-b6h3lqh5ca8m16g5qm69brnhljiqmed8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.click.vendor",
+            "certificate_hash": "597b143211d8612448bd581f072f70ce1cc460f6"
+          }
+        },
+        {
+          "client_id": "343358436510-ba18irl05qr4g3eu1mlv9f8qgshmaibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZQ98ULCMTZ3iRHlCHiYGtKPbX3uEIIVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343358436510-ba18irl05qr4g3eu1mlv9f8qgshmaibr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343358436510-bhbp11o29rrgmn4cnnrmfph3r8cs9vbt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gomarketdemo.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343358436510:android:b5a82f58ed2c48f0f3378f",
+        "android_client_info": {
+          "package_name": "com.demo.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343358436510-etjflpncona64bj0p9i1nmgrlsj1ms2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.demo",
+            "certificate_hash": "597b143211d8612448bd581f072f70ce1cc460f6"
+          }
+        },
+        {
+          "client_id": "343358436510-kq7qgfpb3l6r00petee10kdb7ciss2vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.demo",
+            "certificate_hash": "29031b029a2ada0267a25ef41f4028e61c492a9f"
+          }
+        },
+        {
+          "client_id": "343358436510-ba18irl05qr4g3eu1mlv9f8qgshmaibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZQ98ULCMTZ3iRHlCHiYGtKPbX3uEIIVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343358436510-ba18irl05qr4g3eu1mlv9f8qgshmaibr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343358436510-bhbp11o29rrgmn4cnnrmfph3r8cs9vbt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gomarketdemo.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
